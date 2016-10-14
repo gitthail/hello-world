@@ -1,2 +1,2 @@
 # hello-world
-lesson
+lesson of the git for gits sake
